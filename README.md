@@ -1,1 +1,1 @@
-# random-string
+# random-string-generator
