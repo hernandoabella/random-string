@@ -7,6 +7,12 @@ A simple web app that generates a random alphanumeric string with each button cl
 - CSS
 - JavaScript
 
+## Explanation:
+- **HTML:** The structure includes a div that displays the random string and a button that, when clicked, triggers the JavaScript function to generate a new string. 
+- **CSS:** Styles the container and box, with the button changing color on hover. 
+- **JavaScript:** Generates a random alphanumeric string of 6 characters and updates the displayed string when the button is clicked. 
+You can save these files (index.html, style.css, script.js) in a local folder and open index.html in your browser to see the app in action.
+
 ## Screenshot 📷
 ![Screenshot 2024-10-21 193944](https://github.com/user-attachments/assets/c0fd5fa4-32d1-4462-906b-82c9e46e7c51)
 
